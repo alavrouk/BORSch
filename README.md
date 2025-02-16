@@ -1,6 +1,6 @@
 # What are Foundation Models Cooking in the Post-Soviet World? 
 
-![fun image](./borsch_image.png)
+![fun image](./borsch_image.jpg)
 
 This repository contains food dishes and images of the BORSch dataset. In our paper ["What are Foundation Models Cooking in the Post-Soviet World?"](arxiv.org), we used this dataset to explore Post-Soviet cultural understanding in Russian and Ukrainian models.
 
