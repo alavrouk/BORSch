@@ -25,4 +25,4 @@ antonlavrouk \[AT\] google \[DOT\] com
 
 ## Acknowledgments
 
-The authors would like to thank Oleksandr Lavreniuk and Dennis Pozhidaev for their valuable discussion and annotation; Kartik Goyal for their valuable discussion.
+The authors would like to thank Oleksandr Lavreniuk, Dennis Pozhidaev, and Jad Matthew Bardawil for their valuable discussion and annotation; Kartik Goyal for their valuable discussion.
