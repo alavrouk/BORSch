@@ -25,4 +25,4 @@ antonlavrouk \[AT\] google \[DOT\] com
 
 ## Acknowledgments
 
-The authors would like to thank Oleksandr Lavreniuk and Dennis Pozhidaev for their valuable discussion and annotation. Additionally, Anton Lavrouk would like to thank Wei Xu, Alan Ritter, and Kartik Goyal for their valuable input and guidance in their role as the Master's thesis committee for this work.
+The authors would like to thank Oleksandr Lavreniuk and Dennis Pozhidaev for their valuable discussion and annotation; Kartik Goyal for their valuable discussion.
