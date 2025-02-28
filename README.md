@@ -4,7 +4,7 @@
   <img src="./borsch_image.jpg" alt="borsch" width="50%">
 </p>
 
-This repository contains food dishes and images of the BORSch dataset. In our paper ["What are Foundation Models Cooking in the Post-Soviet World?"](arxiv.org), we used this dataset to explore Post-Soviet cultural understanding in Russian and Ukrainian models.
+This repository contains food dishes and images of the BORSch dataset. In our paper ["What are Foundation Models Cooking in the Post-Soviet World?"](https://arxiv.org/pdf/2502.18583), we used this dataset to explore Post-Soviet cultural understanding in Russian and Ukrainian models.
 
 ## Dataset Structure
 The data is split into three sub-datasets:
