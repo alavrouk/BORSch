@@ -16,7 +16,15 @@ Each dish has an ID (given in the ID column). This allows one to trace the dish 
 
 ## Citation
 
-TBD
+@misc{lavrouk2025foundationmodelscookingpostsoviet,
+      title={What are Foundation Models Cooking in the Post-Soviet World?}, 
+      author={Anton Lavrouk and Tarek Naous and Alan Ritter and Wei Xu},
+      year={2025},
+      eprint={2502.18583},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.18583}, 
+}
 
 ## Contact
 
